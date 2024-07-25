@@ -7,6 +7,6 @@ https://lookerstudio.google.com/s/p1VrTVZ2IdI
 
 Methods &  conclusion
 Raw Data consisted of stock market data of about  200 companies  like  market cap, current stock price, closing price, 52 week high & low & PE(Price to  Earning) ratio.
-Used functions like QUERY, IF,  ARRAY &  VLOOKUP for  Data  Processing to  find final output of "Good stocks" having PE ratio &  price with certain parameters. Pivot  Tables  & Dashboard were developed  on these  final "Good Stocks" data.  From Pivot Tables & looker  report it led  to conclusion about parameters like  industry wise average market cap, industry wise sum  of market cap, industry wise count of companies. 
+Used functions like QUERY, IF,  ARRAY &  VLOOKUP for  Data  Processing to  find final output of "Good stocks" having PE ratio &  price with certain parameters. Pivot  Tables  & Dashboard were developed  on these  final "Good Stocks" data.  From Pivot Tables & looker  report it led  to conclusion about parameters like  industry wise average market cap, industry wise sum  of market cap, industry wise count of companies. Banking industry leads by  sum of market cap & count of companies within the given data whereas FMCG industry had the highest average market cap.
 
 
